@@ -1,1 +1,3 @@
 echo '*.exe'
+echo '*.out'
+echo 'server'
